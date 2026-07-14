@@ -1,15 +1,10 @@
-<div align="center">
-
 # @shellcio
 
 **Systems Architect & Integration Engineer**
 
 Проектирование отказоустойчивых систем автоматизации, инфраструктур Telegram-ботов и безопасных биллинг-интеграций.
 
-[![Website](https://img.shields.io/badge/thinkly.lol-08090a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thinkly.lol)
-[![Telegram](https://img.shields.io/badge/@xthinkly-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xthinkly)
-
-</div>
+[**thinkly.lol**](https://thinkly.lol) / [**Telegram: @xthinkly**](https://t.me/xthinkly)
 
 ### Архитектурный фокус
 
@@ -23,4 +18,4 @@
 
 ### Стек технологий
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Aiogram](https://img.shields.io/badge/Aiogram-3776AB?style=flat-square&logo=telegram&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316194?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+`Python` `TypeScript` `JavaScript` `PHP` `FastAPI` `Django` `Node.js` `Aiogram` `PostgreSQL` `Redis` `SQLite` `Docker` `Git` `Linux`
