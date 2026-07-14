@@ -1,20 +1,35 @@
+<div align="center">
+
 # Vladislav
 
-Разработчик систем автоматизации, Telegram-ботов и веб-приложений.
-Создаю решения для бизнеса, оптимизирую процессы и интегрирую платежные системы.
+**Systems Architect & Integration Engineer**
+
+Проектирование отказоустойчивых систем автоматизации, инфраструктур Telegram-ботов и безопасных биллинг-интеграций.
 
 ---
 
-### Проекты и контакты
+[![Website](https://img.shields.io/badge/thinkly.lol-08090a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thinkly.lol)
+[![Telegram](https://img.shields.io/badge/@xthinkly-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xthinkly)
 
-[![Website](https://img.shields.io/badge/Website-thinkly.lol-08090a?style=flat-square&logo=google-chrome&logoColor=white)](https://thinkly.lol)
-[![Telegram](https://img.shields.io/badge/Telegram-@xthinkly-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xthinkly)
+</div>
 
 ---
 
-### Стек технологий
+### Архитектурный фокус
 
-- **Языки**: Python, JavaScript / TypeScript, PHP
-- **Фреймворки**: FastAPI, Django, Node.js, Aiogram
-- **Базы данных**: PostgreSQL, SQLite, Redis
-- **Инструменты**: Docker, Git, Linux
+Разрабатываю масштабируемые клиент-серверные приложения с акцентом на автоматизацию бизнес-логики и безопасность данных.
+
+- **Telegram Bot API & User API**: проектирование FSM-каркасов, оптимизация обработки событий, разработка сложных интерактивных меню и юзер-ботов.
+- **Интеграция платежей**: подключение фиатных и криптовалютных биллинг-шлюзов (Stripe, CryptoPay, Platega) с проверкой вебхуков и идемпотентностью транзакций.
+- **Инфраструктура**: развертывание в изолированных Docker-контейнерах, настройка CI/CD, оптимизация запросов к СУБД.
+
+---
+
+### Технологический арсенал
+
+| Направление | Стек и инструменты |
+| :--- | :--- |
+| **Языки** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Фреймворки** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Aiogram](https://img.shields.io/badge/Aiogram-3776AB?style=flat-square&logo=telegram&logoColor=white) |
+| **СУБД** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316194?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
