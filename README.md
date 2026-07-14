@@ -2,20 +2,21 @@
 
 **Systems Architect & Integration Engineer**
 
-Проектирование отказоустойчивых систем автоматизации, инфраструктур Telegram-ботов и безопасных биллинг-интеграций.
+Проектирование систем автоматизации, инфраструктуры ботов и биллинга.
 
-[**thinkly.lol**](https://thinkly.lol) / [**Telegram: @xthinkly**](https://t.me/xthinkly)
+<div align="left">
+  <a href="https://thinkly.lol"><img src="https://img.shields.io/badge/thinkly.lol-08090a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://t.me/xthinkly"><img src="https://img.shields.io/badge/@xthinkly-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</div>
 
-### Архитектурный фокус
+### Специализация
 
-Разрабатываю масштабируемые клиент-серверные приложения с акцентом на автоматизацию бизнес-логики и безопасность данных.
+- **Telegram Bot & User API**: FSM-архитектура, юзер-боты и интерактивные меню.
+- **Web & Landings**: быстрые интерфейсы, Core Web Vitals, конверсии и SEO.
+- **Биллинг & Платежи**: интеграция Stripe, CryptoPay, Platega (вебхуки, транзакции).
+- **Автоматизация & Логистика**: CRM/ERP, модули складского учета, логистические системы.
+- **Инфраструктура**: изолированный Docker, CI/CD, оптимизация СУБД.
 
-- **Telegram Bot API & User API**: проектирование FSM-каркасов, оптимизация обработки событий, разработка сложных интерактивных меню и юзер-ботов.
-- **Лендинги и веб-сайты**: создание производительных, адаптивных веб-интерфейсов с премиальным UX/UI, оптимизацией Core Web Vitals (LCP, INP, CLS) и техническим SEO.
-- **Интеграция платежей**: подключение фиатных и криптовалютных биллинг-шлюзов (Stripe, CryptoPay, Platega) с проверкой вебхуков и идемпотентностью транзакций.
-- **Автоматизация и логистика**: проектирование систем автоматизации бизнес-процессов, логистических модулей, складского учета, CRM/ERP-интеграций и обработки потоков данных.
-- **Инфраструктура**: развертывание в изолированных Docker-контейнерах, настройка CI/CD, оптимизация запросов к СУБД.
-
-### Стек технологий
+### Стек
 
 `Python` `TypeScript` `JavaScript` `PHP` `FastAPI` `Django` `Node.js` `Aiogram` `PostgreSQL` `Redis` `SQLite` `Docker` `Git` `Linux`
