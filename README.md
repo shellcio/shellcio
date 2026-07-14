@@ -2,7 +2,8 @@
 
 **Systems Architect & Integration Engineer**
 
-Проектирование систем автоматизации, инфраструктуры ботов и биллинга.
+Проектирование систем автоматизации, инфраструктуры ботов и биллинга.  
+Разработчик [**@shellcio/thinkly-skill**](https://github.com/shellcio/thinkly-skill) — инженерного стандарта для ИИ-агентов.
 
 <div align="left">
   <a href="https://thinkly.lol"><img src="https://img.shields.io/badge/thinkly.lol-08090a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
